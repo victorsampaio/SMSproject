@@ -59,6 +59,7 @@
         android:layout_height="wrap_content"
         android:text="Send SMS"
         android:id="@+id/btnSendSms"
-        android:layout_centerVertical="true"
-        android:layout_alignParentStart="true" />
+        android:layout_marginTop="94dp"
+        android:layout_below="@+id/edtxMessage"
+        android:layout_alignStart="@+id/textView" />
 </RelativeLayout>
